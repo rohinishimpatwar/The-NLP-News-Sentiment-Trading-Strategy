@@ -14,16 +14,16 @@ The project aims to answer three questions:
 
 ## Project Logic
 
-1. Data Cleaning & Labelling <br />
-  1.1 reformat and clean the news we get from kaggle website  <br />
-  1.2 put industry and company labels on all news(~40,000)  <br />
-  1.3 manually label sentiments for a small sample of news(800)
-2. EDA & Data Preprocessing <br /> 
-  2.1 Analyze word counts, top insutries mentioned in news, top n-grams by industries and sentiment.
-3. News Sentiment Factor Extracion using Vader/FinBERT models(NLP)  <br />
-  3.1 use rule-based model Vader to directly predict sentiments for all news, achieve ~0.56 accuracy on labeled samples  <br />
-  3.2 trained a FinBERT model on labeled samples by conducting trasfer learning on BERT model, achieve ~0.65 accuracy on validation set and ~0.81 on overall labeled dataset.
-4. Factor Model Based Trading Strategy <br />
+1. __Data Cleaning & Labelling__<br />
+  1) reformat and clean the news we get from kaggle website  <br />
+  2) put industry and company labels on all news(~40,000)  <br />
+  3) manually label sentiments for a small sample of news(800)
+2. __EDA & Data Preprocessing__ <br /> 
+  Analyze word counts, top insutries mentioned in news, top n-grams by industries and sentiment.
+3. __News Sentiment Factor Extracion using Vader/FinBERT models(NLP)__  <br />
+  1) use rule-based model Vader to directly predict sentiments for all news, achieve ~0.56 accuracy on labeled samples  <br />
+  2) trained a FinBERT model on labeled samples by conducting trasfer learning on BERT model, achieve ~0.65 accuracy on validation set and ~0.81 on overall labeled dataset.
+4. __Factor Model Based Trading Strategy__ <br />
 
 ## Poster
 ![Test Image 1](https://github.com/rohinishimpatwar/The-NLP-News-Sentiment-Trading-Strategy/blob/master/Images/DS4A_NLP_POSTER.png)
