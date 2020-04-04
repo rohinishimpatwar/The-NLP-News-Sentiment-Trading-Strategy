@@ -1,2 +1,9 @@
-# The-NLP-News-Sentiment-Factor-Trading-Strategy-for-a-Portfolio-of-S-P-500-Stocks
-The NLP News Sentiment Factor Trading Strategy for a Portfolio of S&amp;P 500 Stocks
+
+Project Aim - To answer two questions: 
+Does the Industry news sentiment factor help explain/predict stock returns? 
+Does this strategy beat other benchmark trading strategies, e.g. buying the market portfolio/ETF?
+
+The DataSet link - 
+
+Poster
+![Test Image 1](https://github.com/rohinishimpatwar/The-NLP-News-Sentiment-Trading-Strategy/blob/master/Images/poster.png)
