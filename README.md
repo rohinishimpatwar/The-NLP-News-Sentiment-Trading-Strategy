@@ -13,10 +13,10 @@ The project aims to answer three questions:
 3. S&P 500 daily stock prices from Yahoo Finance: 
 
 ## Project Logic
-Part 1. Data Cleaning 
-Part 2. EDA & Data Preprocessing 
-Part 3. News Sentiment Factor Extracion using Vader/FinBERT models (NLP modeling)
+Part 1. Data Cleaning <br />
+Part 2. EDA & Data Preprocessing <br />
+Part 3. News Sentiment Factor Extracion using Vader/FinBERT models (NLP modeling) <br />
 Part 4. Develop Trading Strategy & Evaluation using Factor Model 
 
 ## Poster
-![Test Image 1](https://github.com/rohinishimpatwar/The-NLP-News-Sentiment-Trading-Strategy/blob/master/Images/poster.png)
+![Test Image 1](https://github.com/rohinishimpatwar/The-NLP-News-Sentiment-Trading-Strategy/blob/master/Images/DS4A_NLP_POSTER.png)
