@@ -13,10 +13,14 @@ The project aims to answer three questions:
 3. S&P 500 daily stock prices from Yahoo Finance:
 
 ## Project Logic
-1. Data Cleaning & Labelling: 
-1) Reformat and clean the news we get from kaggle website; 
-2) Put industry and company labels on all news(~40,000);
-Manually label sentiments for a small sample of news(800). <br />
+Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+Markup: 1. Data Cleaning & Labelling 
+1. Reformat and clean the news we get from kaggle website; 
+2. Put industry and company labels on all news(~40,000);
+3. Manually label sentiments for a small sample of news(800). <br />
 2. EDA & Data Preprocessing: 
 Analyze word counts, top insutries mentioned in news, top n-grams by industries and sentiment.  <br />
 3. News Sentiment Factor Extracion using Vader/FinBERT models (NLP): 
