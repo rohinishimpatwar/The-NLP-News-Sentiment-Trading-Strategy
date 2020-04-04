@@ -15,9 +15,9 @@ The project aims to answer three questions:
 ## Project Logic
 
 1. Data Cleaning & Labelling 
-  1. Reformat and clean the news we get from kaggle website; 
-  2. Put industry and company labels on all news(~40,000);
-  3. Manually label sentiments for a small sample of news(800). 
+  * Reformat and clean the news we get from kaggle website; 
+  * Put industry and company labels on all news(~40,000);
+  * Manually label sentiments for a small sample of news(800). 
 2. EDA & Data Preprocessing 
    Analyze word counts, top insutries mentioned in news, top n-grams by industries and sentiment.
 3. News Sentiment Factor Extracion using Vader/FinBERT models(NLP)
