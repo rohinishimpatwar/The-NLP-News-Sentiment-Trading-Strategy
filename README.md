@@ -19,8 +19,8 @@ The project aims to answer three questions:
   2. Put industry and company labels on all news(~40,000);
   3. Manually label sentiments for a small sample of news(800). 
 2. EDA & Data Preprocessing 
-  Analyze word counts, top insutries mentioned in news, top n-grams by industries and sentiment.
-3. News Sentiment Factor Extracion using Vader/FinBERT models (NLP): 
+   Analyze word counts, top insutries mentioned in news, top n-grams by industries and sentiment.
+3. News Sentiment Factor Extracion using Vader/FinBERT models(NLP)
   1. use rule-based model Vader to directly predict sentiments for all news, achieve ~0.56 accuracy on labeled samples;
   2. trained a FinBERT model on labeled samples by conducting trasfer learning on BERT model, achieve ~0.65 accuracy on validation set and ~0.81 on overall labeled dataset.
 4. Factor Model Based Trading Strategy:
