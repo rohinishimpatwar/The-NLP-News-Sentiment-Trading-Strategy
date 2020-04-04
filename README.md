@@ -1,7 +1,7 @@
 
 # Financial News Sentiment Trading Strategy using FinBERT
 ## Background
-This Project is a part of [DataScience4All Women's Summit 2020](https://www.correlation-one.com/ds4a), sponsored by Correlation One. The project owners are five summit participants: [Anastasia Tatarenko](https://www.linkedin.com/in/anastasia-tatarenko-mfe-quant/), [Daria Yurova](https://www.linkedin.com/in/dariayurova/) , [Ningyuan Zhang](https://www.linkedin.com/in/ningyuan-yvonne-zhang-b92b76132/), [Yang Su](https://www.linkedin.com/in/yang-su-1a5b8040/) and [Rohini Shimpatwar](https://www.linkedin.com/in/rohinishimpatwar/). <br />
+This Project is a part of [DataScience4All Women's Summit 2020](https://www.correlation-one.com/ds4a), sponsored by Correlation One. The project owners are five summit participants including [Anastasia Tatarenko](https://www.linkedin.com/in/anastasia-tatarenko-mfe-quant/), [Daria Yurova](https://www.linkedin.com/in/dariayurova/) , [Ningyuan Zhang](https://www.linkedin.com/in/ningyuan-yvonne-zhang-b92b76132/), [Yang Su](https://www.linkedin.com/in/yang-su-1a5b8040/) and [Rohini Shimpatwar](https://www.linkedin.com/in/rohinishimpatwar/). <br />
 The project aims to answer three questions: 
 1. Which NLP model is the best for sentiment factor extraction on financial news? 
 2. Does the news sentiment factor help predict stock returns? 
