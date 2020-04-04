@@ -23,7 +23,7 @@ The project aims to answer three questions:
     2) remove noise words: stopwords, special characters, dates, common names, numbers, etc.
 3. __News Sentiment Factor Extracion using Vader/FinBERT models(NLP)__  <br />
     1) use rule-based model Vader to directly predict sentiments for all news, achieve ~0.56 accuracy on labeled samples  <br />
-    2) train a FinBERT model on labeled samples by conducting trasfer learning on BERT model, achieve ~0.65 accuracy on validation set and ~0.81 on overall labeled dataset.
+    2) train a FinBERT model on labeled samples by conducting trasfer learning on BERT model, achieve ~0.65 accuracy on validation set and ~0.81 on overall labeled dataset
 4. __Factor Model Based Trading Strategy__ <br />
     1) create industry and company sentiment index
     2) build a new trading strategy with sentiment index based on factor model and evaluate the performance
