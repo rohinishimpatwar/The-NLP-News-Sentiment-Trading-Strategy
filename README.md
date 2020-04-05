@@ -10,7 +10,7 @@ The project aims to answer three questions:
 ## Dataset
 1. [‘US Financial News Articles’ from Kaggle](https://www.kaggle.com/jeet2016/us-financial-news-articles)
 2. [S&P 500 companies and industries from Wikipedia](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies)
-3. [S&P 500 daily stock prices from Yahoo Finance](https://finance.yahoo.com/quote/%5EGSPC/)
+3. S&P 500 daily stock prices from Yahoo Finance
 
 ## Project Logic
 
