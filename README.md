@@ -29,4 +29,4 @@ The project aims to answer three questions:
     2) build a new trading strategy with sentiment index based on factor model and evaluate the performance
 
 ## Poster
-![Test Image 1](https://github.com/rohinishimpatwar/The-NLP-News-Sentiment-Trading-Strategy/blob/master/Images/DS4A_NLP_POSTER.png)
+![Test Image 1](https://github.com/rohinishimpatwar/The-NLP-News-Sentiment-Trading-Strategy/blob/master/Images/DS4A_5Q_POSTER.png)
